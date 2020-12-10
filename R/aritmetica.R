@@ -1,4 +1,4 @@
-#' Operacoes Matematicas Basicas
+#' Operações Matemáticas Basicas
 #'
 #' \code{aritmetica} resolve operacoes como: soma, subtracao,
 #'     divisao e multiplicacao.
